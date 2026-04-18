@@ -2,6 +2,8 @@
 
 Last updated: April 18, 2026
 
+[日本語](../index.md)
+
 ## Introduction
 
 The GourmetSwipe development team ("we," "us," or "our") is committed to protecting the personal information of users of Gourmet Swipe ("the app"). This privacy policy explains what information the app collects, how it is used, and how it is managed.
