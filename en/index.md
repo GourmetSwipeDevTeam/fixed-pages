@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: April 18, 2026
+Last updated: September 17, 2026
 
 [日本語](../index.md)
 
@@ -21,7 +21,8 @@ The app collects the following information:
 ### User Input
 
 - Bookmarks, ratings, comments, and other information you enter in the app are stored
-- Your email address is stored if you register an account (registration is optional)
+- Your display name, gender, birth year, and place of residence (prefecture level) are stored if you enter them. All of these are optional. You can use the app without entering them, and you can change them at any time
+- We do not store your email address or your name when you register an account (registration is optional)
 
 ### Device Information
 
@@ -34,7 +35,8 @@ We use the collected information only for the following purposes:
 1. Displaying nearby restaurants and videos based on your location
 2. Storing and displaying your bookmarks, ratings, and comments
 3. Improving app performance and investigating issues
-4. Contacting registered users when necessary
+4. Sending you important notices about the app through in-app notifications
+5. Analysing overall user trends to improve how the app chooses which videos to show
 
 ## Disclosure to Third Parties
 
